@@ -1,0 +1,11 @@
+{
+    "name": "@pobedit/tsconfig",
+    "version": "0.0.1",
+    "description": "React specific linting rules for ESLint",
+    "author": "Alexander Abashkin <monolithed@gmail.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:pobedit-instruments/tsconfig.git"
+    }
+}
